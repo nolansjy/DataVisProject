@@ -1,3 +1,4 @@
 plotly
 plotly[express]
 countrystatecity_countries
+openpyxl
