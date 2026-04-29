@@ -405,7 +405,7 @@ if target_country and target_year:
     st.markdown('''Climate Disasters: [Our World in Data](https://ourworldindata.org/natural-disasters) / EM-DAT    
     Precipitation, Temperature: [Climate Knowledge Portal](https://climateknowledgeportal.worldbank.org/download-data) / CRU   
     News Datasets: [HuggingFace](https://huggingface.co/datasets/NickyNicky/global-news-dataset) + [Kaggle](https://www.kaggle.com/datasets/fringewidth/climate-change-news)  
-    News coverage: [MECCO](http://id.loc.gov/vocabulary/iso639-2/eng)''')
+    News coverage: [MECCO](https://mecco.colorado.edu/form/index.html)''')
 
 
 
